@@ -1,0 +1,23 @@
+{
+  "name": "ngdoc",
+  "authors": [
+    "clenon <dev@carloslenon.com>"
+  ],
+  "description": "Example how to implement ngdoc",
+  "main": "index.html",
+  "keywords": [    
+    "grunt",   
+    "angular",
+    "ngdoc"    
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

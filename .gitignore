@@ -1,0 +1,8 @@
+#bower dependencies
+bower_components
+
+#node dependencies
+node_modules
+
+#ngdocs folder
+docs

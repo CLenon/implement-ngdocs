@@ -1,0 +1,30 @@
+{
+  "name": "ngdoc",
+  "version": "1.0.0",
+  "description": "Example how to implement ngdoc",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/clenon/jlweddingplanner-client.git"
+  },
+  "keywords": [
+    "grunt",
+    "angular",
+    "ngdoc"
+  ],
+  "author": "clenon <dev@carloslenon.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/clenon/jlweddingplanner-client#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-ngdocs": "^0.2.10",
+    "gulp": "^3.9.1",
+    "gulp-ngdocs": "^0.3.0"
+  }
+}
