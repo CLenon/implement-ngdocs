@@ -43,19 +43,7 @@
  * @priority 1000
  * @restrict AEF 
  */
-(function(){
-	'use strict';
 
-	function testDrtv(){
-		return {
-			restrict: 'A'
-		}
-	}
-
-	angular
-		.module('app')
-		.directive('testDrtv', testDrtv);
-})();
 /**
  * @ngdoc service
  * @name  common.service:endPoint
@@ -72,16 +60,3 @@
  * @priority 1000
  * @restrict AEF 
  */
-(function(){
-	'use strict';
-
-	function testDrtv(){
-		return {
-			restrict: 'A'
-		}
-	}
-
-	angular
-		.module('app')
-		.directive('testDrtv', testDrtv);
-})();
